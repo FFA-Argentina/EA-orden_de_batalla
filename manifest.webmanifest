@@ -1,0 +1,30 @@
+{
+  "name": "Orden de batalla del Ejército Argentino",
+  "short_name": "Orden de batalla EA",
+  "description": "Orden de batalla del Ejército Argentino con simbología OTAN APP-6, mapa de guarniciones y anexo en PDF.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
